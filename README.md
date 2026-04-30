@@ -1,4 +1,4 @@
-## 🤖 AI Coding Agent — Overview
+## 🤖 CodeForge-AI — Overview
 
 This **AI Agent** is an AI coding helper built with **LangGraph**.  
 It works like a **small team of developers** — you can give it a request in natural language, and it will turn it into a complete working project, creating each file step by step like real developers do.
